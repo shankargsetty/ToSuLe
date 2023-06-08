@@ -1,8 +1,6 @@
-# ToSuLe
+# Taste of Supervised Learning (ToSuLe)
 
-## Taste of Supervised Learning
-
-Workshop @ KLE Technological University on 10th June 2023
+## Workshop @ KLE Technological University on 10th June 2023
 
 ## Contents
 - Introduction
