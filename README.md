@@ -7,3 +7,4 @@
 - Linear Regression
 - Logistic Regression
 - K-Nearest Neighbors
+- Naive Bayes
